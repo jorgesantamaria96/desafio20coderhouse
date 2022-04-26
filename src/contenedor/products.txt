@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Intelligent Granite Gloves",
+    "price": "440.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 1,
+    "name": "Handcrafted Granite Gloves",
+    "price": "978.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 2,
+    "name": "Handmade Granite Keyboard",
+    "price": "239.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 3,
+    "name": "Gorgeous Plastic Chair",
+    "price": "194.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 4,
+    "name": "Handmade Frozen Mouse",
+    "price": "526.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  }
+]

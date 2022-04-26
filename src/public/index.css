@@ -1,0 +1,140 @@
+.containerTitle {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.backgroundMessages {
+  background-color: lightblue;
+  padding-top: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.containerDiv {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.chat-container {
+  border: 2px solid;
+  border-color: grey;
+  padding: 20px;
+  overflow: scroll;
+  height: 800px;
+}
+
+.title {
+  color: blue;
+  text-align: left;
+}
+
+.messageContainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 5px;
+  height: auto;
+  padding-bottom: 5px;
+  width: 100%;
+}
+.messageEmail {
+  color: blue;
+  font-weight: bold;
+}
+
+.messageDate {
+  color: brown;
+}
+
+.messageText {
+  overflow: hidden;
+  font-style: italic;
+}
+
+.login__background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: lightblue;
+  width: 100vw;
+  height: 100vh;
+}
+
+.login__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 420px;
+  height: 420px;
+  border-radius: 20px;
+  background-color: white;
+  align-items: center;
+}
+
+.login__span {
+  width: auto;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: white;
+  border-color: red;
+  color: red;
+  text-align: center;
+}
+
+.login__card_title {
+  font-size: 20px;
+  color: slateblue;
+  font-weight: bold;
+  flex-wrap: wrap;
+}
+
+.navbar__email {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  margin: 5px;
+  padding-right: 10px;
+}
+
+.info__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: lightblue;
+  width: 100vw;
+  height: 100vh;
+}
+
+.info__card_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: white;
+  align-items: center;
+}
+
+.info__card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.info__title {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.info__value {
+  font-size: 20px;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}

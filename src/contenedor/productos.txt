@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Refined Granite Chicken",
+    "price": "655.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 1,
+    "name": "Unbranded Granite Cheese",
+    "price": "750.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 2,
+    "name": "Handmade Frozen Computer",
+    "price": "990.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 3,
+    "name": "Sleek Wooden Ball",
+    "price": "146.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  },
+  {
+    "id": 4,
+    "name": "Licensed Wooden Salad",
+    "price": "442.00",
+    "thumbnail": "http://placeimg.com/640/480/animals"
+  }
+]
